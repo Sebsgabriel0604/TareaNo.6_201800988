@@ -1,0 +1,13 @@
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\bin\Debug\TareaNo.6_201800988.exe.config
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\bin\Debug\TareaNo.6_201800988.exe
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\bin\Debug\TareaNo.6_201800988.pdb
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\bin\Debug\TareaNo.6_201800988.xml
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo.6_201800988.vbproj.AssemblyReference.cache
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo.6_201800988.vbproj.SuggestedBindingRedirects.cache
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo._6_201800988.Form1.resources
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo._6_201800988.Resources.resources
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo.6_201800988.vbproj.GenerateResource.cache
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo.6_201800988.vbproj.CoreCompileInputs.cache
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo.6_201800988.exe
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo.6_201800988.xml
+D:\Archivos De Sebastián\Laboratorio de Programación No. 2\TareaNo.6_201800988\TareaNo.6_201800988\obj\Debug\TareaNo.6_201800988.pdb
